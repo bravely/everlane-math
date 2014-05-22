@@ -1,5 +1,3 @@
-require 'pry'
-
 class MathProblem
   def initialize(problem)
     if problem.is_a? String

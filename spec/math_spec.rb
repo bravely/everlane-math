@@ -42,7 +42,7 @@ describe 'math' do
   describe 'Improperly formatted examples' do
     it 'does not process anything but strings' do
       expect do
-        MathProblem.new(['badtest'])
+        MathProblem.new([89])
       end.to raise_exception ImproperFormatError
     end
 
