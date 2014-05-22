@@ -1,0 +1,11 @@
+# Logfile created on 2014-05-21 17:17:57 -0500 by logger.rb/44203
+I, [2014-05-21T17:17:57.641657 #17867]  INFO -- : 0:  coderay (1.1.0) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/coderay-1.1.0.gemspec
+I, [2014-05-21T17:17:57.642091 #17867]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-05-21T17:17:57.642490 #17867]  INFO -- : 0:  method_source (0.8.2) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/method_source-0.8.2.gemspec
+I, [2014-05-21T17:17:57.642849 #17867]  INFO -- : 0:  slop (3.5.0) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/slop-3.5.0.gemspec
+I, [2014-05-21T17:17:57.643188 #17867]  INFO -- : 0:  pry (0.9.12.6) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-05-21T17:17:57.643537 #17867]  INFO -- : 0:  rspec-core (2.14.8) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-05-21T17:17:57.643869 #17867]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-05-21T17:17:57.644226 #17867]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-05-21T17:17:57.644588 #17867]  INFO -- : 0:  rspec (2.14.1) from /Users/quaunaut/.rvm/gems/ruby-2.1.0/specifications/rspec-2.14.1.gemspec
+I, [2014-05-21T17:17:57.644925 #17867]  INFO -- : 0:  bundler (1.5.1) from /Users/quaunaut/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.1.gemspec
